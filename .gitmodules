@@ -1,0 +1,3 @@
+[submodule "FPGA_Codebase/Krssg-FPGA"]
+	path = FPGA_Codebase/Krssg-FPGA
+	url = https://github.com/ayush0119/Krssg-FPGA.git
