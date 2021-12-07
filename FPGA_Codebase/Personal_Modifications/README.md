@@ -1,2 +1,1 @@
-# Verilog-Projects
-Showcasing my personal Verilog Projects
+This directory contains verilog modules I have personally created/modified.
